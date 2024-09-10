@@ -3,4 +3,4 @@
 	url = https://github.com/leethomason/tinyxml2
 [submodule "tools/mkpsxiso"]
 	path = tools/mkpsxiso
-	url = https://github.com/Lameguy64/mkpsxiso
+	url = https://github.com/annestrand/mkpsxiso
